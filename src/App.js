@@ -112,7 +112,6 @@ class App extends Component {
     const tasks = this.state.tasksList;
     const filter = this.state.filter;
     const countItemValue = this.countItemValue.bind(this);
-
     return (
       <div>
         <section className="todoapp">
@@ -125,7 +124,6 @@ class App extends Component {
                 onClick={this.getToggleAllTasks.bind(this)}
               />
             )}
-
             <Todolist
               tasks={tasks}
               changeOfTaskStatus={this.changeOfTaskStatus.bind(this)}
