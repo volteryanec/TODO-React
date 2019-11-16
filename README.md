@@ -1,1 +1,1 @@
-<a href='https://volteryanec.github.io/TODO-React/'>Press for preview</a>
+<a href='https://volteryanec.github.io/TODO-React/public/'>Press for preview</a>
